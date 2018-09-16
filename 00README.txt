@@ -32,5 +32,3 @@ Kickstarter1.twb : Tableau workbook with Data visualization
 
 Names:
 Kaustubh Borole   kpborol@ilstu.edu
-Dheeraj Patil	  djpatil@ilstu.edu
-Apoorva Paygude   aapaygu@ilstu.edu
