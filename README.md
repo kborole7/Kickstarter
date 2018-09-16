@@ -20,6 +20,8 @@ Screenshots from Tableau.
 
 ![noofprojectscategory](https://user-images.githubusercontent.com/35272993/45601868-7e220280-b9d9-11e8-9e00-e7bb25288bb1.PNG)
 
+ 
+![numberofprojectscurrency](https://user-images.githubusercontent.com/35272993/45601893-e7097a80-b9d9-11e8-8cb7-62ea9e35f9f0.png)
 
 
 ![dashboard1](https://user-images.githubusercontent.com/35272993/45601873-85491080-b9d9-11e8-8546-dcb3bc61527b.PNG)
