@@ -27,3 +27,10 @@ Screenshots from Tableau.
 ![dashboard1](https://user-images.githubusercontent.com/35272993/45601873-85491080-b9d9-11e8-8546-dcb3bc61527b.PNG)
 
 ![dashboard2](https://user-images.githubusercontent.com/35272993/45601874-88440100-b9d9-11e8-81a5-0c167cc0b669.png)
+
+[](url)
+![time_series1](https://user-images.githubusercontent.com/35272993/47597446-78162e80-d954-11e8-8cc3-62cec138bd46.png)
+![time_series2](https://user-images.githubusercontent.com/35272993/47597447-78162e80-d954-11e8-9d14-45d1ada840cb.png)
+![time_series3](https://user-images.githubusercontent.com/35272993/47597448-78aec500-d954-11e8-8367-bf89ddcbdf98.png)
+
+
