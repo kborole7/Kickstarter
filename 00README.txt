@@ -2,16 +2,11 @@ AllDeadfiles.txt : combined data from all 0012 and 0016 dead.txt files
 
 AllNewfiles.txt : combined data from all 0012 and 0016 new.txt files
 
-
 Allerrorfiles.txt: combined data from all 0012 and 0016 error.txt files
-
 
 AllExcelfiles.csv : combined data from all 0012 and 0016 excel files
 
-
 one.xlsx : combined data from all the files above.
-
-
 
 train9.csv : final training dataset, after droping all mismatched rows, null rows and duplicates.
 
@@ -30,5 +25,4 @@ Final.ipynb : jupyter notebook with all the code.
 Kickstarter1.twb : Tableau workbook with Data visualization
 
 
-Names:
-Kaustubh Borole   kpborol@ilstu.edu
+Name: Kaustubh Borole  
